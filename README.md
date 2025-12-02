@@ -1,3 +1,6 @@
+> ⚠️ **Status: Deprecado**  
+> Este repositório foi descontinuado e não será mais atualizado.
+
 # Ulisses Albardeiro - Blog Pessoal
 
 Blog pessoal desenvolvido em PHP com sistema de administração. O projeto está configurado para rodar em ambiente local e produção, com rotas amigáveis utilizando `.htaccess`.
